@@ -13,6 +13,8 @@ export default function Example() {
         <CostBadge badgeLabel={t("ctaButton")} href="/" />
         <CostBadge badgeLabel="ShackToken" href="/shackToken" />
         <CostBadge badgeLabel={t("contact")} href="/about" />
+        <CostBadge badgeLabel="X" href="/about" />
+        <CostBadge badgeLabel="I" href="/about" />
       </div>
     </nav>
   );
