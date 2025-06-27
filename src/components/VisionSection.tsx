@@ -1,6 +1,5 @@
 import "@/i18n";
 import { useTranslation } from "react-i18next";
-import Headline from "./Headline";
 
 export default function CreateAuctionSection() {
   const { t } = useTranslation(["home"]);

@@ -1,5 +1,4 @@
 import "@/i18n";
-import { t } from "i18next";
 import Link from "next/link";
 import { useTranslation } from "react-i18next";
 

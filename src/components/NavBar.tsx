@@ -1,6 +1,5 @@
 "use client";
 
-import { useState } from "react";
 import CostBadge from "./NavBadge";
 import { t } from "i18next";
 import XTwitterIcon from "@/icon/XTwitter.svg";
