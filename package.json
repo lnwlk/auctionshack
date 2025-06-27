@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
+    "clsx": "^2.1.1",
     "framer-motion": "^12.19.1",
     "i18next": "^25.0.0",
     "i18next-resources-to-backend": "^1.2.1",

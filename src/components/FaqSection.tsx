@@ -3,8 +3,8 @@ import { useTranslation } from "react-i18next";
 import FaqItem from "./FaqItem";
 
 // Example SVGR imports
-import IconQuestion from "@/icon/plus.svg";
-import IconHelp from "@/icon/plus.svg";
+import IconQuestion from "@/icon/Plus.svg";
+import IconHelp from "@/icon/Plus.svg";
 
 export default function FaqSection() {
   const { t } = useTranslation(["faq"]);
