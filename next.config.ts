@@ -1,13 +1,11 @@
-import type { NextConfig } from "next";
-module.exports = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
-};
-
-const nextConfig: NextConfig = {
-  /* config options here */
-  webpack(config) {
+  webpack(config: {
+    module: { rules: { test: RegExp; issuer: RegExp; use: string[] }[] };
+  }) {
     config.module.rules.push({
       test: /\.svg$/,
       issuer: /\.[jt]sx?$/,
@@ -18,4 +16,4 @@ const nextConfig: NextConfig = {
   },
 };
 
-export default nextConfig;
+module.exports = nextConfig;

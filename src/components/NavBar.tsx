@@ -2,8 +2,7 @@
 
 import CostBadge from "./NavBadge";
 import { t } from "i18next";
-import XTwitterIcon from "@/icon/XTwitter.svg";
-import InstagramIcon from "@/icon/Instagram.svg";
+
 import LanguageSwitcher from "./LanguageSwitcher";
 
 export default function Example() {
@@ -14,8 +13,6 @@ export default function Example() {
         <CostBadge badgeLabel={t("ctaButton")} href="/" />
         <CostBadge badgeLabel="ShackToken" href="/shackToken" />
         <CostBadge badgeLabel={t("contact")} href="/about" />
-        <CostBadge icon={<XTwitterIcon />} href="/about" />
-        <CostBadge icon={<InstagramIcon />} href="/about" />
       </div>
     </nav>
   );

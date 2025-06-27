@@ -6,6 +6,7 @@ import CreateAuctionSection from "@/components/CreateAuctionSection";
 import ShackHelperSection from "@/components/ShackHelperSection";
 import CostSection from "@/components/CostSection";
 import PressSection from "@/components/PressSection";
+import AchievementsSection from "@/components/AchievementsSectin";
 import FaqSection from "@/components/FaqSection";
 import Footer from "@/components/Footer";
 import NavAppDownload from "@/components/NavAppDownload";
@@ -26,6 +27,7 @@ export default function Home() {
         <ShackHelperSection />
         <CostSection />
         <PressSection />
+        <AchievementsSection />
         <MapSection />
         <FaqSection />
         <Footer />

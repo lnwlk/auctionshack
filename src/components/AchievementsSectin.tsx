@@ -5,6 +5,11 @@ import IconSwitzerland from "@/icon/Switzerland.svg";
 import IconCubeDots from "@/icon/CubeDots.svg";
 import IconExtrude from "@/icon/Extrude.svg";
 
+console.log("typeof AchievementCard:", typeof AchievementCard);
+console.log("AchievementCard:", AchievementCard);
+console.log("typeof IconSwitzerland:", typeof IconSwitzerland);
+console.log("IconSwitzerland:", IconSwitzerland);
+
 export default function AchievementsSection() {
   const { t } = useTranslation(["home"]);
 
