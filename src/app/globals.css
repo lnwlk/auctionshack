@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+/* custom css files */
+@import "../styles/glass.css";
+@import "../styles/slider.css";
+
+:root {
+  --background: #ffffff;
+  --foreground: #231f20;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #231f20;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "BwGradual", sans-serif;
+}
+
+/* Custom Fonts */
+@font-face {
+  font-family: "BwGradual";
+  src: url("/font/BwGradual-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BwGradual";
+  src: url("/font/BwGradual-Bold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BwGradual";
+  src: url("/font/BwGradual-Thin.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Custom Colors */
+@theme {
+  --color-shackGreen: #00d256;
+  --color-shackGreenLight: #80dbad;
+  --color-shackGreenSoft: #bbe2bb;
+  --color-shackBlue: #30cada;
+  --color-shackBlueDark: #447abe;
+  --color-shackBlueLight: #a8e8ef;
+  --color-shackBlack: #231f20;
+  --color-shackPurple: #a6a3cc;
+
+  --color-TextSecondary: rgba(255, 255, 255, 0.6);
+}

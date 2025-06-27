@@ -1,0 +1,57 @@
+{
+  "introHead": "Gain space. \nDiscover treasures.",
+  "introCta": "Start selling. Start bidding.",
+
+  "VisionStart": "⚡️ List auctions in seconds.",
+  "VisionEnd": "🔥 Buy products at the best price.",
+
+  "createAuctionHeadline": "List auctions.",
+  "createAuctionHeadlineSecond": "In seconds.",
+  "createAuctionParagraph": "Launch your auction at record speed: take a photo, upload it – the AI handles the rest. Title, description, price suggestions? Generated automatically. Developed in Switzerland with a focus on speed, security, and innovation, AuctionShack helps you sell more efficiently than ever before.",
+
+  "bidOnAuctionHeadline": "Find treasures.",
+  "bidOnAuctionHeadlineSecond": "Win at the best price.",
+  "bidOnAuctionParagraph": "The most exciting auctions are happening right around the corner. Our interactive map shows you what’s going on nearby. Bid live, experience real-time excitement – transparent, fair, and without cheap mass-produced goods from wholesalers.",
+
+  "shackHelperHeadline": "Shack.",
+  "shackHelperHeadlineSecond": "Your AI companion.",
+  "shackHelperParagraph": "Shack is your smart assistant with superpowers. He makes sure everything runs smoothly: fast, secure, clever.",
+
+  "costHeadline": "Fair costs.",
+  "costHeadlineSecond": "Transparent for everyone.",
+  "costParagraph": "Your contribution keeps Shack running. No ads, no hidden fees. Just real deals. So you can keep enjoying smart, fair auctions tomorrow too.",
+  "costParagraphEnd": "Selling is always free. As a buyer, if you win an auction, you pay a buyer fee of 2.4%.",
+
+  "costCardSellBadge": "Seller",
+  "costCardSellHeadline": "Sell for free",
+  "costCardSellCost": "CHF 0",
+
+  "costCardBuyBadge": "Buyer",
+  "costCardBuyHeadline": "Buyer fee",
+  "costCardBuyCost": "2.4 %",
+
+  "pressHeadline": "In the Press",
+  "pressParagraphMinutes": "While the neon design and features like the comic function emphasize the fun of bargain hunting, there’s a serious mission behind the startup: [...] to reduce throwaway culture and promote reuse.",
+  "pressLinkMinutes": "https://www.20min.ch/story/auction-shack-ex-ricardo-mitarbeiter-erfindet-online-auktionen-neu-103319804",
+  "pressLogoMinutes": "/app/Press20Minutes.svg",
+  "pressParagraphZugerZeitung": "Back to simplicity: sell everyday items in just a few clicks. With “AuctionShack,” a local entrepreneur wants to shake up the online auction market.",
+  "pressLinkZugerZeitung": "https://www.zugerzeitung.ch/zentralschweiz/zug/zug-zurueck-zur-einfachheit-mit-wenigen-klicks-gebrauchtwaren-verkaufen-ld.2747074",
+  "pressLogoZugerZeitung": "/app/PressZugerZeitung.svg",
+
+  "achievementsHeadline": "Here’s what we’ve achieved so far.",
+  "achievementAuctionDaily": "100 new auctions / day",
+  "achievementUser": "XX users",
+
+  "locationHeadline": "Swiss platform",
+  "locationParagraph": "We’re proud to be based in Switzerland and support local talent.",
+
+  "shack1.name": "Shack Alpha",
+  "shack1.title": "🔥 Photo analyzed",
+  "shack1.description": "Here are my suggestions for title, keywords, and prices. Shall I publish the auction?",
+  "shack2.name": "Shack Beta",
+  "shack2.title": "⚡ Auction scanned",
+  "shack2.description": "These nearby auctions might interest you. Want to place a bid?",
+  "shack3.name": "Shack Gamma",
+  "shack3.title": "❇️ Safety check",
+  "shack3.description": "This auction is safe. I've verified the seller."
+}

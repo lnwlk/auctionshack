@@ -1,0 +1,42 @@
+"use client";
+
+import BackgroundGradient from "@/components/BackgroundGradient";
+import Intro from "@/components/Intro";
+import NavBar from "@/components/NavBar";
+import CreateAuctionSection from "@/components/CreateAuctionSection";
+import BidOnAuctionSection from "@/components/BidOnAuctionSection";
+import ShackHelperSection from "@/components/ShackHelperSection";
+import CostSection from "@/components/CostSection";
+import PressSection from "@/components/PressSection";
+import AchievementsSection from "@/components/AchievementsSectin";
+import FaqSection from "@/components/FaqSection";
+import Footer from "@/components/Footer";
+import LanguageSwitcher from "@/components/LanguageSwitcher";
+import NavAppDownload from "@/components/NavAppDownload";
+import MeshBackground from "@/components/MeshBackground";
+import MapSection from "@/components/MapSection";
+
+import VisionSection from "@/components/VisionSection";
+import InfiniteSlider from "@/components/InfiniteSlider";
+
+export default function Home() {
+  return (
+    <>
+      <div className="relative mx-auto flex min-h-[150vh] flex-col items-center">
+        <MeshBackground />
+        <NavBar />
+        <Intro />
+        <NavAppDownload />
+        <VisionSection />
+        <CreateAuctionSection />
+        <ShackHelperSection />
+        <CostSection />
+        <PressSection />
+        <AchievementsSection />
+        <MapSection />
+        <FaqSection />
+        <Footer />
+      </div>
+    </>
+  );
+}

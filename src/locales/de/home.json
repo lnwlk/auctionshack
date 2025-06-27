@@ -1,0 +1,55 @@
+{
+  "introHead": "Platz gewinnen. \nSchätze finden",
+  "introCta": "Jetzt versteigern. Gleich mitbieten.",
+
+  "VisionStart": "⚡️ In Sekunden Auktionen inserieren.",
+  "VisionEnd": "🔥 Produkte zum Bestpreis kaufen.",
+
+  "createAuctionHeadline": "Inseriere Auktionen.",
+  "createAuctionHeadlineSecond": "In Sekunden",
+  "createAuctionParagraph": "Starte deine Auktion in Rekordzeit: Foto machen, hochladen – den Rest übernimmt die KI. Titel, Beschreibung, Preisvorschläge? Kommen automatisch. Entwickelt in der Schweiz mit Fokus auf Geschwindigkeit, Sicherheit und Innovation verkaufst  du mit AuctionShack effizienter als je zuvor.",
+  "bidOnAuctionHeadline": "Finde Schätze.",
+  "bidOnAuctionHeadlineSecond": "Gewinne zum Bestpreis.",
+  "bidOnAuctionParagraph": "Die spannendsten Auktionen finden gleich bei dir ums Eck statt. Unsere interaktive Karte zeigt dir, was gerade in deiner Nähe los ist. Biete live mit, erlebe echte Spannung in Echtzeit – transparent, fair und ohne billige Massenware von Großhändlern.",
+  "shackHelperHeadline": "Shack.",
+  "shackHelperHeadlineSecond": "Dein KI Begleiter.",
+  "shackHelperParagraph": "Shack ist dein smarter Begleiter mit Superpower. Er sorgt dafür, dass alles glatt läuft: schnell, sicher, clever.",
+
+  "costHeadline": "Faire Kosten.",
+  "costHeadlineSecond": "Transparent für alle.",
+  "costParagraph": "Mit deinem Beitrag halten wir Shack am Laufen. Keine Werbung, keine versteckten Kosten. Nur echte Deals. So kannst du auch morgen noch smarte, faire Auktionen erleben.",
+  "costParagraphEnd": "Verkaufen ist immer kostenlos. Als Käufer gilt: Gewinnst du eine Auktion, zahlst du eine Käufergebühr von 2,4%.",
+
+  "costCardSellBadge": "Verkäufer",
+  "costCardSellHeadline": "Kostenlos verkaufen",
+  "costCardSellCost": "CHF 0",
+
+  "costCardBuyBadge": "Käufer",
+  "costCardBuyHeadline": "Käufergebühr",
+  "costCardBuyCost": "2,4 %",
+
+  "pressHeadline": "Aktuelle Presse",
+  "pressParagraphMinutes": "Während das neonartige Design und Features wie etwa eine Comic-Funktion [...] Spass am Schnäppchen-Jagen in den Vordergrund stellen, steckt eigentlich ein ernstes Anliegen hinter dem Startup: [...] die Wegwerfmentalität zu senken und die Wiederverwertung zu fördern.",
+  "pressLinkMinutes": "https://www.20min.ch/story/auction-shack-ex-ricardo-mitarbeiter-erfindet-online-auktionen-neu-103319804",
+  "pressLogoMinutes": "/app/Press20Minutes.svg",
+  "pressParagraphZugerZeitung": "Zurück zur Einfachheit: Mit wenigen Klicks Alltagsgegenstände verkaufen. Mit «AuctionShack» will ein Zuger den Onlineauktions-Markt beleben.",
+  "pressLinkZugerZeitung": "https://www.zugerzeitung.ch/zentralschweiz/zug/zug-zurueck-zur-einfachheit-mit-wenigen-klicks-gebrauchtwaren-verkaufen-ld.2747074",
+  "pressLogoZugerZeitung": "/app/PressZugerZeitung.svg",
+
+  "achievementsHeadline": "Das haben wir bisher erreicht.",
+  "achievementAuctionDaily": "100 neue Auktionen / Tag",
+  "achievementUser": "XX User",
+
+  "locationHeadline": "Schweizer Plattform",
+  "locationParagraph": "Wir sind stolz darauf, in der Schweiz ansässig zu sein und lokale Talente zu unterstützen.",
+
+  "shack1.name": "Shack Alpha",
+  "shack1.title": "🔥 Foto ausgewertet",
+  "shack1.description": "Hier sind meine Vorschläge für Titel, Keywords und Preise. Soll ich die Auktion online stellen?",
+  "shack2.name": "Shack Beta",
+  "shack2.title": "⚡ Auktions gescant",
+  "shack2.description": "Diese Auktionen in deiner Nachbarschaft sind für dich interessant. Möchtest du mitbieten?",
+  "shack3.name": "Shack Gamma",
+  "shack3.title": "❇️ ️ Sicherheitsprüfung",
+  "shack3.description": "Diese Auktion ist sicher. Ich haben den Verkäufer verifiziert."
+}
