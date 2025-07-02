@@ -1,12 +1,16 @@
-import React from "react";
 import { TooltipProps } from "recharts";
 import { TFunction } from "i18next";
 
-type TokenTooltipProps = TooltipProps<any, any> & {
+type DataItem = { name: string; value: number };
+
+type TokenTooltipProps = {
+  active?: boolean;
+  payload?: Array<{ payload: DataItem }>;
   t: TFunction;
 };
 
-const TokenTooltip = ({ active, payload, t }: TokenTooltipProps) => {
+const TokenTooltip = (props: TokenTooltipProps) => {
+  const { active, payload, t } = props;
   if (active && payload && payload.length) {
     const { name, value } = payload[0].payload;
     return (
