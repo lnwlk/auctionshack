@@ -1,0 +1,19 @@
+.map {
+  background-image: url("/app/map.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-mask-image: linear-gradient(
+    to bottom,
+    transparent 0%,
+    black 25%,
+    black 75%,
+    transparent 100%
+  );
+  mask-image: linear-gradient(
+    to bottom,
+    transparent 0%,
+    black 25%,
+    black 75%,
+    transparent 100%
+  );
+}

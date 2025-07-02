@@ -17,14 +17,17 @@ export default function Headline({
   const { t } = useTranslation([namespace]);
 
   return (
-    <div className="mx-auto md:max-w-2xl">
+    <div className="w-full md:max-w-2xl">
       <div>
         <h3 className="text-4xl font-bold tracking-tight">
           {t(headingKey ?? "")}
         </h3>
         <h3 className="text-4xl tracking-tight">{t(headingSecondKey ?? "")}</h3>
       </div>
-      <p className="pt-4 text-lg"> {t(paragraphKey ?? "")}</p>
+      <p
+        className="pt-4 text-lg"
+        dangerouslySetInnerHTML={{ __html: t(paragraphKey ?? "") }}
+      />
     </div>
   );
 }

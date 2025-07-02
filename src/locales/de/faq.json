@@ -1,10 +1,40 @@
 {
-  "faqHeadline": "Frequently Asked Questions",
-  "howItWorksQuestion": "How does the platform work?",
-  "howItWorksAnswer": "You create an auction, the AI handles pricing and promotion.",
-  "feesQuestion": "Are there any fees?",
-  "feesAnswer": "No, the platform is free to use.",
-  "faqDescription": "Hier findest du Antworten auf die wichtigsten Fragen.",
+  "faqHeadline": "Häufig gestellte Fragen",
   "contactSupport": "Noch Fragen? → Schreibe uns.",
-  "mailTo": "help@auctionshack.com"
+  "mailTo": "help@auctionshack.com",
+  "faqDescription": "Unsere Auktionen werden durch ein Prüfverfahren kuratiert, um dir exklusive Artikel zu bieten und die Plattform vor irrelevanten Angeboten oder Dropshipping zu schützen.",
+  "faqitem": [
+    {
+      "question": "Wie registriere ich mich bei AuctionShack?",
+      "answer": "Du kannst dich ganz einfach mit Google Sign-In oder Apple Sign-In in der iOS-App registrieren."
+    },
+    {
+      "question": "In welcher Währung wird zwischen Käufer und Verkäufer gezahlt?",
+      "answer": "Der Käufer kann den Verkäufer in CHF via TWINT oder – falls vom Verkäufer angeboten – in Kryptowährungen bezahlen."
+    },
+    {
+      "question": "Gibt es Gebühren?",
+      "answer": "Für Verkäufer ist AuctionShack kostenlos. Käufer zahlen Plattformgebühren bei erfolgreichen Auktionen."
+    },
+    {
+      "question": "Wie bezahle ich die Plattformgebühren?",
+      "answer": "Die Plattformgebühren können mit Shack-Token bezahlt werden, die über In-App-Käufe erworben werden."
+    },
+    {
+      "question": "Welche Artikel darf ich verkaufen?",
+      "answer": "In der App findest du eine Liste aller zugelassenen Artikel."
+    },
+    {
+      "question": "Welche Geräte werden unterstützt?",
+      "answer": "AuctionShack ist derzeit nur für iOS-Geräte mit iOS 17.0 oder höher verfügbar."
+    },
+    {
+      "question": "Was kann ich tun, wenn ich Probleme mit der App habe?",
+      "answer": "Wende dich an unser Support-Team unter support@auctionshack.io."
+    },
+    {
+      "question": "Wie werden Auktionen kuratiert?",
+      "answer": "Wende dich an unser Support-Team unter support@auctionshack.io."
+    }
+  ]
 }

@@ -1,0 +1,187 @@
+{
+  "imprint": {
+    "headline": "Imprint",
+    "contact": "<strong>AuctionShack</strong>  <br /> Julius Ilg <br /> Chamerstrasse 98 <br /> 3600 Zug",
+    "design": "<strong>Branding und Realisierung der Website</strong> <br />Lena Wilke<br /><a href=\"https://www.lenawilke.de\" target=\"_blank\" rel=\"noopener noreferrer\">www.lenawilke.de</a>"
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy of AuctionShack",
+    "version": "Version 1.0 – 28 August 2024",
+    "heading": "About us",
+    "content": "This Privacy Policy (\"Privacy Policy\") explains how we process and protect your personal data when you use our website available on www.auctionshack.io (\"Website\") or our app (\"App\"; the Website and the App together referred as \"Platform\"), or our services provided via the Platform (together, the \"Services\"). These Services are operated by Julius Ilg, Chamerstrasse 98, 6300 Zug (\"AuctionShack\", \"we\", \"our\", or \"us\"). AuctionShack is the controller for the data processing described below. Unless otherwise defined in this Privacy Policy, the definitions used in this Privacy Policy have the same meaning as in the Swiss Federal Act on Data Protection (FADP) or the EU General Data Protection Regulation (GDPR).",
+    "section1": {
+      "heading": "1. Personal data we collect",
+      "content": "We may collect or receive personal information for a number of purposes connected with our business operations when you use our Services, namely:",
+      "list": [
+        "Usage and analytics information (e.g., identifiers, numbers of clicks, tracking data)",
+        "Contact details (e.g., name, address, phone number, birth date)",
+        "Relevant location (e.g., the address relevant for your research)",
+        "Login details (e.g., e-mail address, username, session)",
+        "Payment details (e.g., billing information, credit card details including Apple Pay)",
+        "Blockchain wallet data (e.g., user public address)",
+        "Request details (e.g., details and content of your inquiries)",
+        "Auction details (items, number and names of bidders)"
+      ],
+      "note": "There is no obligation to provide your personal data. However, please note that our Services cannot be provided if you do not provide the required data strictly necessary for performing the contract between you and us."
+    },
+    "section2": {
+      "heading": "2. How we collect personal data",
+      "content": "We collect information about our users when they use our Services, including taking certain actions within it.",
+      "directly": {
+        "title": "Directly",
+        "items": [
+          "Via our Platform and electronic communication",
+          "When you use our Services",
+          "When you provide services to us",
+          "When you correspond with us by electronic means using our Services",
+          "When you browse, complete a form or make an inquiry while using our Services"
+        ]
+      },
+      "Indirectly": {
+        "title": "Indirectly",
+        "items": [
+          "Through public sources",
+          "From public registers (such as commercial registers), news articles and internet searches",
+          "When our business customers engage us to perform professional services which involve them sharing personal data they control with us as part of that engagement",
+          "From external Service Providers (see section 5)"
+        ]
+      }
+    },
+    "section3": {
+      "heading": "3. Legal Basis and purposes",
+      "content": "Our legal basis for collecting and using the personal data described in this Privacy Policy depends on the personal data we collect and the specific purposes for which we collect it.",
+      "contract": {
+        "title": "Contract",
+        "description": "To perform our contractual obligations or take steps linked to a contract with you. In particular:",
+        "items": [
+          "To provide you with customer support",
+          "To set up and manage your account, as well as to verify your credentials when logging in",
+          "To provide our Services"
+        ]
+      },
+      "consent": {
+        "title": "Consent",
+        "description": "We may rely on your freely given consent at the time you provided your personal data. In particular:",
+        "items": [
+          "To analyse, improve, personalise and monitor the usage of our Services and communication",
+          "To place non-essential cookies and other tools on your browser",
+          "To provide users with news, special offers, and general information about goods and services which we offer by means of in-app push notifications to share your contact details with the User selling an item, in case of a concluded Auction"
+        ]
+      },
+      "legitimate": {
+        "title": "Legitimate Interests",
+        "description": "We rely on legitimate interests based on our assessment that the processing is fair and reasonable and does not override your interests or fundamental rights and freedoms. In particular:",
+        "items": [
+          "To place essential cookies and other tools on your browser that are technically necessary for our Services",
+          "To develop new services",
+          "To maintain and improve our Services, as well as to detect, prevent, and address security threats"
+        ]
+      },
+      "necessity": {
+        "title": "Necessity for compliance with legal obligations",
+        "description": "To meet regulatory and public interest obligations. In particular:",
+        "items": [
+          "To notify you about changes to our Services and our Privacy Policy",
+          "To comply with applicable regulations and legislation",
+          "For the legal enforcement of claims and rights"
+        ]
+      }
+    },
+    "section4": {
+      "heading": "4. Data retention",
+      "content": "We retain personal data for as long as it is needed for the purposes for which it was collected and in line with legal and regulatory requirements or contractual arrangements. After this period, we delete or fully anonymize your personal data."
+    },
+    "section5": {
+      "heading": "5. Data recipients",
+      "content": "We engage third-party companies (\"Service Providers\") to facilitate the operation of our Services, assist in analysing the usage of the Services, or perform necessary services, such as payment and the provision of IT services. These third parties have access to your personal data only to the extent necessary to perform these tasks.",
+      "list": [
+        "Professional advisers that we use, such as accountants and lawyers",
+        "Third parties that are engaged in the course of your matter, such as counsels, banks and other payment providers, KYC/AML service providers, and postal or courier providers",
+        "Third parties who provide IT and software services",
+        "Third parties who help us with client insights and marketing"
+      ]
+    },
+    "section6": {
+      "heading": "6. Data transfers",
+      "content": "We and/or our Service Providers may transfer your personal data to and process it in the following countries:",
+      "list": ["EU and EWR", "USA"],
+      "content2": "We may use Service Providers partly located in so-called third countries (outside the European Union or the European Economic Area or Switzerland) or process personal data there, i.e., countries whose level of data protection does not correspond to that of the EU or Switzerland. We safeguard your personal data per our contractual obligations and applicable data protection legislation when transferring data abroad.",
+      "content3": "Such safeguards may include:",
+      "list2": [
+        "The transfer to countries that have been deemed to provide an adequate level of protection according to the Federal Council, as well as to countries where there is an adequacy decision by the European Commission in place",
+        "Applying standard data protection model clauses, binding corporate rules or other standard contractual obligations that provide appropriate data protection"
+      ],
+      "content4": "If a third country transfer takes place and there is no adequacy decision or appropriate safeguards, it is possible and there is a risk that authorities in the third country (e.g., intelligence services) can gain access to the transferred data and that the enforceability of your data subject's rights cannot be guaranteed."
+    },
+    "section7": {
+      "heading": "7. Data disclosure",
+      "content": "We may disclose your personal data in the good faith belief that such action is necessary:",
+      "list": [
+        "To comply with a legal obligation (i.e., if required by law or in response to valid requests by public authorities, such as a court or government agency)",
+        "To protect the security of our Services and defend our rights or property",
+        "To prevent or investigate possible wrongdoing in connection with us"
+      ]
+    },
+    "section8": {
+      "heading": "8. Data Security",
+      "content": "We take reasonable technical and organisational security measures that we deem appropriate to protect your stored data against manipulation, loss, or unauthorised third-party access. Our security measures are continually adapted to technological developments. We also take internal data privacy very seriously. Our employees and the service providers that we engage are required to maintain secrecy and comply with applicable data protection legislation. In addition, they are granted access to personal data only insofar as this is necessary for them to carry out their respective tasks or mandate. The security of your personal data is important to us but remember that no method of transmission over the internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security. We recommend using antivirus software, a firewall, and other similar software to safeguard your system."
+    },
+    "section9": {
+      "heading": "9. Your rights",
+      "content": "You have the below data protection rights. To exercise these rights, you may contact the above address or send an email to: support@auctionshack.io. Please note that we may ask you to verify your identity before responding to such requests.",
+      "list": [
+        "Right of access: You have a right to request a copy of your personal data, which we will provide to you in an electronic form.",
+        "Right to amendment: You have the right to ask us to correct our records if you believe they contain incorrect or incomplete information about you.",
+        "Right to withdraw consent: If you have provided your consent to the processing of your personal data, you have the right to withdraw your consent at any time with effect for the future. Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose(s) to which you initially consented to unless there is another legal basis for processing.",
+        "Right to erasure: You have the right to request that we delete your personal data when it is no longer necessary for the purposes for which it was collected or when it was unlawfully processed.",
+        "Right to restriction of processing: You have the right to request the restriction of our processing of your personal data where you believe it to be inaccurate, our processing is unlawful, or where we no longer need to process your personal data but you require the data to assert, exercise or defend a legal claim.",
+        "Right to object: You have the right to object to our processing of your personal data for direct marketing purposes or for reasons related to your particular situation.",
+        "Right to data portability: You have the right to receive your personal data in a structured, commonly used and machine-readable format and to transfer that data to another data controller."
+      ]
+    },
+    "section10": {
+      "heading": "10. Data Storage and Tracking Technologies",
+      "content": "The Platform uses various technologies to enhance your experience and provide our services. These technologies may store data on your device or collect information about your usage. Below is an explanation of these technologies and how we use them. We use tools that are necessary for the operation of the app based on our legitimate interest in enabling you to use our services more conveniently and efficiently. In certain cases, these tools may also be necessary for the performance of a contract or to carry out pre-contractual measures. In these cases, accessing and storing information on your device is absolutely necessary. All other tools, especially those used for marketing purposes, are used based on your consent. In these cases, accessing and storing information on your device is subject to your approval. If you have given your consent to use certain tools, we may also transfer the data processed when using these tools to third countries based on this consent.",
+      "essential": {
+        "heading": "1. Essential tools",
+        "content": "We use certain tools to enable the basic functions of our Platform. Without these Tools, we could not provide our Services. These Tools include cookies for the following purposes:",
+        "list": [
+          "Authentication and identification of Appusers",
+          "Keep the session active while the user is using the App",
+          "Memorise the user's connection for a period of one week"
+        ]
+      },
+      "nonessential": {
+        "heading": "2. Non-essential tools",
+        "content": "We furthermore use other tools, especially those for marketing purposes, and to collect statistics and analyse general usage behaviour based on access data."
+      },
+      "google": {
+        "heading": "3. Google Analytics 4",
+        "content": "Our app uses Google Analytics 4, a service provided by Google Ireland Limited. If you have not consented to the use of analytics tools, your data will not be collected by Google Analytics 4. <br /> Google Analytics 4 uses software development kits (SDKs) integrated into our app to collect information about your device and how you interact with our app. This data is used to analyse your usage behaviour and to improve our app. The access data is compiled by Google on our behalf into pseudonymous usage profiles and transferred to Google servers in the USA. We process this information to evaluate your use of the app and to compile reports on app activities. <br /> The data collected through Google Analytics 4 may be enriched with data from Google Ads to measure the success of our advertising campaigns (so-called conversions). <br /><br /> Data That May Be Processed by Google Analytics 4",
+        "list": [
+          "IP Address",
+          "User ID and Device ID",
+          "App Screens Viewed (date, time, duration)",
+          "Actions Taken Within the App (e.g., taps, swipes, scrolls)",
+          "Achievement of Certain Goals (conversions)",
+          "Technical Information (operating system; device type, brand, model, and resolution; language settings)",
+          "Approximate Location (country, region, and city, if applicable, based on anonymized IP address)"
+        ],
+        "note": "To know more about Google's cookie usage, consult its privacy policy hier."
+      }
+    },
+    "section11": {
+      "heading": "11. Changes to this Privacy Policy",
+      "content": "We reserve the right to update or modify this Privacy Policy at any time. When we do so, we will revise the \"version\" at the top of this Privacy Policy. We encourage you to review this page periodically to stay informed about any changes. Your continued use of the Services after changes to this Privacy Policy constitutes acceptance of the updated policy."
+    },
+    "section12": {
+      "heading": "12. Contact us",
+      "content": "If you have any questions about this Privacy Policy, do not hesitate to get in touch with us at:",
+      "details": [
+        "Julius Ilg",
+        "Chamerstrasse 98, 6300 Zug",
+        "support@auctionshack.io"
+      ]
+    }
+  }
+}

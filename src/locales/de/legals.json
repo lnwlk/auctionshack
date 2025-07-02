@@ -1,0 +1,157 @@
+{
+  "imprint": {
+    "headline": "Impressum",
+    "contact": "<strong>AuctionShack</strong>  <br /> Julius Ilg <br /> Chamerstrasse 98 <br /> 3600 Zug",
+    "design": "<strong>Branding und Realisierung der Website</strong> <br />Lena Wilke<br /><a href=\"https://www.lenawilke.de\" target=\"_blank\" rel=\"noopener noreferrer\">www.lenawilke.de</a>"
+  },
+  "privacyPolicy": {
+    "title": "Datenschutzerklärung von AuctionShack",
+    "version": "Version 1.0 – 28. August 2024",
+    "heading": "Über uns",
+    "content": "Diese Datenschutzerklärung („Datenschutzerklärung“) erläutert, wie wir Ihre personenbezogenen Daten verarbeiten und schützen, wenn Sie unsere Website www.auctionshack.io („Website“) oder unsere App („App“; zusammen Website und App als „Plattform“ bezeichnet) oder unsere über die Plattform angebotenen Dienste („Dienste“) nutzen. Diese Dienste werden von Julius Ilg, Chamerstrasse 98, 6300 Zug („AuctionShack“, „wir“, „uns“ oder „unser“) betrieben. AuctionShack ist für die unten beschriebene Datenverarbeitung die verantwortliche Stelle. Sofern in dieser Datenschutzerklärung nicht anders definiert, gelten die Begriffsbestimmungen der schweizerischen Datenschutzgesetzgebung (DSG) oder der EU-Datenschutz-Grundverordnung (DSGVO).",
+    "section1": {
+      "heading": "1. Erhobene personenbezogene Daten",
+      "content": "Wir können personenbezogene Daten für verschiedene Zwecke im Zusammenhang mit unseren Geschäftsaktivitäten erheben oder erhalten, wenn Sie unsere Dienste nutzen, insbesondere:",
+      "list": [
+        "Nutzungs- und Analyseinformationen (z. B. Identifikatoren, Klickzahlen, Tracking-Daten)",
+        "Kontaktdaten (z. B. Name, Adresse, Telefonnummer, Geburtsdatum)",
+        "Relevanter Standort (z. B. die für Ihre Recherche relevante Adresse)",
+        "Anmeldedaten (z. B. E-Mail-Adresse, Benutzername, Sitzung)",
+        "Zahlungsdaten (z. B. Rechnungsinformationen, Kreditkartendaten einschließlich Apple Pay)",
+        "Blockchain-Wallet-Daten (z. B. öffentliche Nutzeradresse)",
+        "Anfragedetails (z. B. Inhalt und Details Ihrer Anfragen)",
+        "Auktionsdetails (Artikel, Anzahl und Namen der Bieter)"
+      ],
+      "note": "Es besteht keine Verpflichtung, Ihre personenbezogenen Daten bereitzustellen. Bitte beachten Sie jedoch, dass unsere Dienste nicht bereitgestellt werden können, wenn Sie die für die Vertragserfüllung zwischen Ihnen und uns erforderlichen Daten nicht bereitstellen."
+    },
+    "section2": {
+      "heading": "2. Wie wir personenbezogene Daten erheben",
+      "content": "Wir erfassen Informationen über unsere Nutzer, wenn diese unsere Dienste nutzen und bestimmte Aktionen innerhalb der Dienste ausführen.",
+      "directly": {
+        "title": "Direkt",
+        "items": [
+          "Über unsere Plattform und elektronische Kommunikation",
+          "Wenn Sie unsere Dienste nutzen",
+          "Wenn Sie uns Dienstleistungen erbringen",
+          "Wenn Sie elektronisch mit uns über unsere Dienste kommunizieren",
+          "Wenn Sie unsere Dienste nutzen, Formulare ausfüllen oder Anfragen stellen"
+        ]
+      },
+      "Indirectly": {
+        "title": "Indirekt",
+        "items": [
+          "Über öffentliche Quellen",
+          "Aus öffentlichen Registern (z. B. Handelsregister), Nachrichtenartikeln und Internetsuchen",
+          "Wenn Geschäftskunden uns für professionelle Dienstleistungen beauftragen und uns im Rahmen dieser Beauftragung personenbezogene Daten bereitstellen",
+          "Von externen Dienstleistern (siehe Abschnitt 5)"
+        ]
+      }
+    },
+    "section3": {
+      "heading": "3. Rechtsgrundlagen und Zwecke",
+      "content": "Unsere Rechtsgrundlage für die Erhebung und Nutzung der personenbezogenen Daten richtet sich nach den jeweiligen Daten und dem Zweck der Verarbeitung.",
+      "contract": {
+        "title": "Vertrag",
+        "description": "Zur Erfüllung vertraglicher Verpflichtungen oder zur Durchführung vorvertraglicher Maßnahmen. Insbesondere:",
+        "items": [
+          "Zur Bereitstellung von Kundensupport",
+          "Zur Einrichtung und Verwaltung Ihres Kontos sowie zur Überprüfung Ihrer Zugangsdaten bei der Anmeldung",
+          "Zur Erbringung unserer Dienste"
+        ]
+      },
+      "consent": {
+        "title": "Einwilligung",
+        "description": "Wir können uns auf Ihre freiwillig erteilte Einwilligung stützen, insbesondere:",
+        "items": [
+          "Zur Analyse, Verbesserung, Personalisierung und Überwachung der Nutzung unserer Dienste und Kommunikation",
+          "Zur Platzierung nicht notwendiger Cookies und anderer Tools in Ihrem Browser",
+          "Zur Bereitstellung von Neuigkeiten, Sonderangeboten und allgemeinen Informationen zu Waren und Dienstleistungen per In-App-Push-Benachrichtigungen und zur Weitergabe Ihrer Kontaktdaten an den Nutzer, der einen Artikel verkauft, im Falle einer abgeschlossenen Auktion"
+        ]
+      },
+      "legitimate": {
+        "title": "Berechtigte Interessen",
+        "description": "Wir stützen uns auf berechtigte Interessen, sofern die Verarbeitung fair und angemessen ist und Ihre Interessen oder Grundrechte nicht überwiegt. Insbesondere:",
+        "items": [
+          "Zur Platzierung technischer notwendiger Cookies und Tools für unsere Dienste",
+          "Zur Entwicklung neuer Dienste",
+          "Zur Pflege und Verbesserung unserer Dienste sowie zur Erkennung, Verhinderung und Behandlung von Sicherheitsbedrohungen"
+        ]
+      },
+      "necessity": {
+        "title": "Notwendigkeit zur Einhaltung gesetzlicher Verpflichtungen",
+        "description": "Zur Erfüllung regulatorischer und öffentlicher Verpflichtungen, insbesondere:",
+        "items": [
+          "Zur Benachrichtigung über Änderungen unserer Dienste und Datenschutzerklärung",
+          "Zur Einhaltung geltender Gesetze und Vorschriften",
+          "Zur rechtlichen Durchsetzung von Ansprüchen und Rechten"
+        ]
+      }
+    },
+    "section4": {
+      "heading": "4. Datenspeicherung",
+      "content": "Wir speichern personenbezogene Daten nur so lange, wie es für die Zwecke, für die sie erhoben wurden, erforderlich ist und gesetzliche, regulatorische oder vertragliche Anforderungen dies vorsehen. Danach löschen oder anonymisieren wir Ihre Daten vollständig."
+    },
+    "section5": {
+      "heading": "5. Empfänger der Daten",
+      "content": "Wir beauftragen Dritte („Dienstleister“), die den Betrieb unserer Dienste erleichtern, bei der Analyse der Nutzung unterstützen oder notwendige Dienstleistungen erbringen, wie Zahlungsabwicklung oder IT-Services. Diese Dienstleister erhalten nur Zugriff auf personenbezogene Daten, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist.",
+      "list": [
+        "Berater wie Steuerberater und Rechtsanwälte",
+        "Dritte, die in Ihrem Auftrag tätig sind, z. B. Anwälte, Banken, Zahlungsdienstleister, KYC/AML-Dienstleister sowie Post- oder Kurierdienste",
+        "IT- und Softwaredienstleister",
+        "Dritte, die uns bei Kundenanalysen und Marketing unterstützen"
+      ]
+    },
+    "section6": {
+      "heading": "6. Datenübermittlung",
+      "content": "Wir und unsere Dienstleister können Ihre personenbezogenen Daten in folgende Länder übermitteln und dort verarbeiten:",
+      "list": ["EU und EWR", "USA"],
+      "content2": "Manche Dienstleister sind teilweise in sogenannten Drittstaaten (außerhalb der EU, des EWR oder der Schweiz) ansässig oder verarbeiten Daten dort, also in Ländern, deren Datenschutz nicht dem Niveau der EU oder der Schweiz entspricht. Wir sichern Ihre Daten durch vertragliche Verpflichtungen und geltende Datenschutzgesetze bei der Übermittlung ins Ausland ab.",
+      "content3": "Diese Schutzmaßnahmen können umfassen:",
+      "list2": [
+        "Übermittlung in Länder, die der Bundesrat als mit ausreichendem Datenschutzniveau anerkannt hat, oder Länder mit Angemessenheitsbeschluss der Europäischen Kommission",
+        "Anwendung von Standarddatenschutzklauseln, verbindlichen unternehmensinternen Regeln oder anderen Standardvertragsklauseln zum Schutz der Daten"
+      ],
+      "content4": "Findet eine Datenübermittlung in ein Drittland ohne Angemessenheitsbeschluss oder geeignete Schutzmaßnahmen statt, besteht das Risiko, dass Behörden des Drittlandes (z. B. Nachrichtendienste) Zugriff auf die Daten erhalten und die Durchsetzung Ihrer Betroffenenrechte erschwert wird."
+    },
+    "section7": {
+      "heading": "7. Offenlegung von Daten",
+      "content": "Wir können Ihre personenbezogenen Daten offenlegen, wenn wir in gutem Glauben davon ausgehen, dass dies notwendig ist:",
+      "list": [
+        "Zur Erfüllung gesetzlicher Verpflichtungen (z. B. auf Anordnung von Gerichten oder Behörden)",
+        "Zum Schutz der Sicherheit unserer Dienste und zur Verteidigung unserer Rechte oder unseres Eigentums",
+        "Zur Verhinderung oder Untersuchung von Rechtsverstößen in Zusammenhang mit uns"
+      ]
+    },
+    "section8": {
+      "heading": "8. Datensicherheit",
+      "content": "Wir treffen angemessene technische und organisatorische Maßnahmen, um Ihre gespeicherten Daten vor Manipulation, Verlust oder unbefugtem Zugriff Dritter zu schützen. Unsere Sicherheitsmaßnahmen werden kontinuierlich an technologische Entwicklungen angepasst. Wir nehmen den Datenschutz intern sehr ernst. Unsere Mitarbeitenden und beauftragten Dienstleister sind zur Vertraulichkeit und Einhaltung der Datenschutzgesetze verpflichtet und erhalten nur Zugriff auf Daten, soweit dies zur Erfüllung ihrer Aufgaben notwendig ist. Die Sicherheit Ihrer Daten ist uns wichtig, aber bedenken Sie, dass keine Übertragung im Internet oder elektronische Speicherung 100 % sicher ist. Wir empfehlen die Verwendung von Antivirus-Software, Firewall und ähnlichen Programmen zum Schutz Ihres Systems."
+    },
+    "section9": {
+      "heading": "9. Ihre Rechte",
+      "content": "Sie haben folgende Datenschutzrechte. Zur Ausübung dieser Rechte können Sie sich an die oben genannte Adresse wenden oder eine E-Mail an support@auctionshack.io senden. Bitte beachten Sie, dass wir vor der Bearbeitung möglicherweise Ihre Identität überprüfen.",
+      "list": [
+        "Auskunftsrecht: Sie haben das Recht, eine Kopie Ihrer personenbezogenen Daten in elektronischer Form zu erhalten.",
+        "Berichtigungsrecht: Sie können die Berichtigung unrichtiger oder unvollständiger Daten verlangen.",
+        "Widerrufsrecht: Wenn Sie Ihre Einwilligung zur Verarbeitung gegeben haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen. Nach dem Widerruf verarbeiten wir Ihre Daten nicht mehr für die ursprünglich genehmigten Zwecke, sofern keine andere Rechtsgrundlage besteht.",
+        "Löschrecht: Sie können die Löschung Ihrer personenbezogenen Daten verlangen, wenn diese für die Zwecke, für die sie erhoben wurden, nicht mehr erforderlich sind oder unrechtmäßig verarbeitet wurden.",
+        "Recht auf Einschränkung der Verarbeitung: Sie können die Einschränkung der Verarbeitung verlangen, wenn Sie die Richtigkeit der Daten bestreiten, die Verarbeitung unrechtmäßig ist oder wir die Daten nicht mehr benötigen, Sie diese aber für die Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen.",
+        "Widerspruchsrecht: Sie können der Verarbeitung Ihrer Daten für Direktmarketingzwecke oder aus Gründen, die sich aus Ihrer besonderen Situation ergeben, widersprechen.",
+        "Recht auf Datenübertragbarkeit: Sie können Ihre Daten in einem strukturierten, gängigen und maschinenlesbaren Format erhalten und an einen anderen Verantwortlichen übertragen lassen.",
+        "Beschwerderecht: Sie haben das Recht, eine Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde einzureichen."
+      ]
+    },
+    "section10": {
+      "heading": "10. Cookies und Tracking-Technologien",
+      "content": "Unsere Website und App verwenden Cookies und ähnliche Tracking-Technologien, um die Nutzung zu analysieren, Funktionen bereitzustellen und personalisierte Inhalte anzuzeigen. Sie können die Verwendung von Cookies in Ihrem Browser einschränken oder deaktivieren, was jedoch die Funktionalität unserer Dienste beeinträchtigen kann."
+    },
+    "section11": {
+      "heading": "11. Änderungen dieser Datenschutzerklärung",
+      "content": "Wir behalten uns das Recht vor, diese Datenschutzerklärung jederzeit zu ändern, um sie an geänderte Rechtslagen oder bei neuen Diensten anzupassen. Die aktuelle Version ist stets auf unserer Website verfügbar."
+    },
+    "section12": {
+      "heading": "12. Kontakt",
+      "content": "Wenn Sie Fragen oder Anliegen zum Datenschutz bei AuctionShack haben, wenden Sie sich bitte an:",
+      "email": "support@auctionshack.io"
+    }
+  }
+}

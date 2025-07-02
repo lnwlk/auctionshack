@@ -2,7 +2,29 @@
   "ctaButton": "App herunterladen",
   "logoAlt": "AuctionShack Logo",
   "imprint": "Impressum",
-  "privacyPolicy": "Datenschutz",
+  "privacyPolicy": "Datenschutzerklärung",
   "termsOfService": "AGB",
-  "contact": "Kontakt"
+  "contact": {
+    "label": "Kontakt",
+    "headline": "Du hast Fragen oder Feedback zu AuctionShack?",
+    "description": "Du hast Fragen oder Feedback zu AuctionShack?",
+    "company": "AuctionShack",
+    "founder": "Julius Ilg",
+    "adress": "Chamerstrasse 98 <br /> 6300 Zug",
+    "mail": "support@auctionshack.io",
+    "mailto": "mailto:support@auctionshack.io"
+  },
+  "support": {
+    "headline": "Support & Feedback",
+    "description": "Du hast Fragen oder Feedback zu AuctionShack? Schreibe uns gerne. Wir freuen uns von dir zu hören.",
+    "mail": "support@auctionshack.io",
+    "mailto": "mailto:support@auctionshack.io"
+  },
+  "press": {
+    "label": "Pressekontakt",
+    "headline": "Presseanfragen",
+    "description": "Du interessierst dich für unsere Arbeit? Schreib uns eine Mail.",
+    "mail": "support@auctionshack.io",
+    "mailto": "mailto:support@auctionshack.io"
+  }
 }

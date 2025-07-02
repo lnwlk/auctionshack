@@ -3,6 +3,7 @@
 /* custom css files */
 @import "../styles/glass.css";
 @import "../styles/slider.css";
+@import "../styles/map.css";
 
 :root {
   --background: #ffffff;

@@ -14,10 +14,10 @@ export default function AchievementsSection() {
   const { t } = useTranslation(["home"]);
 
   return (
-    <div className="flex w-full flex-col gap-8 p-4 md:max-w-6xl">
-      <h1 className="text-5xl">{t("achievementsHeadline")}</h1>
+    <div className="flex w-full flex-col items-center gap-8 px-4 py-8 md:max-w-7xl md:py-16">
+      <h1 className="max-w-md text-5xl">{t("achievementsHeadline")}</h1>
 
-      <div className="flex flex-col gap-2">
+      <div className="flex w-full max-w-2xl flex-col gap-2">
         <AchievementCard
           icon={<IconSwitzerland />}
           textKey="achievementAuctionDaily"

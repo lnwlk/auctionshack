@@ -7,7 +7,7 @@ export default function Intro() {
   const { t } = useTranslation(["home", "common"]);
 
   return (
-    <div className="flex flex-col items-center gap-2 px-4 pb-10 md:max-w-6xl">
+    <div className="flex w-full flex-col items-center gap-2 px-4 md:max-w-7xl">
       <img className="w-64" src="./brand/app-icon.png" alt={t("logoAlt")} />
       <h1 className="text-center text-5xl tracking-tight">
         {t("introHead")

@@ -5,7 +5,7 @@ export default function PressSection() {
   const { t } = useTranslation(["home"]);
 
   return (
-    <div className="mx-auto flex flex-col items-center justify-center gap-8 p-8 text-center md:max-w-6xl">
+    <div className="mx-auto flex w-full flex-col items-center justify-center gap-8 px-4 py-8 text-center md:max-w-7xl md:py-16">
       <h1 className="text-5xl">{t("pressHeadline")}</h1>
       <div className="flex flex-col items-center gap-4 md:max-w-2xl">
         <img

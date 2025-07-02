@@ -1,10 +1,40 @@
 {
   "faqHeadline": "Frequently Asked Questions",
-  "howItWorksQuestion": "How does the platform work?",
-  "howItWorksAnswer": "You create an auction, the AI handles pricing and promotion.",
-  "feesQuestion": "Are there any fees?",
-  "feesAnswer": "No, the platform is free to use.",
-  "faqDescription": "Hier findest du Antworten auf die wichtigsten Fragen.",
   "contactSupport": "Noch Fragen? → Schreibe uns.",
-  "mailTo": "help@auctionshack.com"
+  "mailTo": "help@auctionshack.com",
+  "faqDescription": "Our auctions are curated through a review process to offer you exclusive articles and protect the platform from irrelevant articles or dropshipping.",
+  "faqitem": [
+    {
+      "question": "How do I sign up for AuctionShack?",
+      "answer": "You can easily sign up using Google Sign-In or Apple Sign-In within the iOS App."
+    },
+    {
+      "question": "What currency is used to transact between buyer and seller?",
+      "answer": "The buyer can pay the seller in CHF via TWINT or in any cryptocurrency, if the seller offers this optional payment method."
+    },
+    {
+      "question": "Are there any fees?",
+      "answer": "Using AuctionShack is free for sellers. Buyers pay platform fees on successful auctions."
+    },
+    {
+      "question": "How do I pay platform fees?",
+      "answer": "Platform fees can be paid with Shack tokens, which are purchased through in-app purchases."
+    },
+    {
+      "question": "What items can I sell?",
+      "answer": "In the app, you will find a list of all permitted items."
+    },
+    {
+      "question": "What devices are supported?",
+      "answer": "AuctionShack is currently available only for iOS devices running iOS 17.0 or later."
+    },
+    {
+      "question": "What can I do if I have issues with the app?",
+      "answer": "Contact our support team at support@auctionshack.io"
+    },
+    {
+      "question": "How are auctions curated?",
+      "answer": "Contact our support team at support@auctionshack.io"
+    }
+  ]
 }

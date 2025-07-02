@@ -5,7 +5,7 @@ export default function CreateAuctionSection() {
   const { t } = useTranslation(["home"]);
 
   return (
-    <div className="relative w-screen overflow-hidden py-40">
+    <div className="relative w-screen max-w-7xl overflow-hidden py-8 md:py-16">
       {/* Background image */}
       <img
         src="/app/AppFrame.png"
@@ -14,7 +14,7 @@ export default function CreateAuctionSection() {
       />
 
       {/* Foreground content */}
-      <div className="flex min-h-[calc(100vh-10vh)] w-full flex-col items-center gap-4 py-16">
+      <div className="flex min-h-[calc(100vh-10vh)] w-full flex-col items-center gap-4 py-16 md:py-16">
         <div className="glass-effect mx-8 rounded-2xl p-4 text-center text-lg">
           <h3>{t("VisionStart")}</h3>
         </div>

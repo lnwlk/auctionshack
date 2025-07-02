@@ -7,8 +7,8 @@ export default function ShackHelperSection() {
   const { t } = useTranslation(["home"]);
 
   return (
-    <div className="w-screen">
-      <div className="p-8">
+    <div className="flex w-screen flex-col items-center py-8 md:py-16">
+      <div className="max-w-4xl p-8">
         <Headline
           namespace="home"
           headingKey="shackHelperHeadline"
@@ -16,9 +16,8 @@ export default function ShackHelperSection() {
           paragraphKey="shackHelperParagraph"
         />
       </div>
-      <div className="p-4">
-        <InfiniteSlider />
-      </div>
+
+      <InfiniteSlider />
     </div>
   );
 }

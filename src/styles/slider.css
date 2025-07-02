@@ -8,3 +8,20 @@
   opacity: 1;
   transform: translateY(0); /* make sure it resets */
 }
+
+.swiper-slide {
+  transition:
+    transform 0.4s ease,
+    opacity 0.4s ease;
+}
+
+.swiper-slide-active {
+  transform: scale(1);
+  opacity: 1;
+}
+
+.swiper-slide-prev,
+.swiper-slide-next {
+  transform: scale(0.9);
+  opacity: 0.5;
+}

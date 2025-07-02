@@ -46,12 +46,19 @@
   "locationParagraph": "We’re proud to be based in Switzerland and support local talent.",
 
   "shack1.name": "Shack Alpha",
-  "shack1.title": "🔥 Photo analyzed",
+  "shack1.title": "Photo analyzed",
+  "shack1.icon": "🔥",
   "shack1.description": "Here are my suggestions for title, keywords, and prices. Shall I publish the auction?",
   "shack2.name": "Shack Beta",
-  "shack2.title": "⚡ Auction scanned",
+  "shack2.title": "Treasures discovered",
+  "shack2.icon": "⚡",
   "shack2.description": "These nearby auctions might interest you. Want to place a bid?",
   "shack3.name": "Shack Gamma",
-  "shack3.title": "❇️ Safety check",
-  "shack3.description": "This auction is safe. I've verified the seller."
+  "shack3.title": "Safety check",
+  "shack3.icon": "❇️",
+  "shack3.description": "This auction is safe. I've verified the seller.",
+  "shack4.name": "Shack Gamma",
+  "shack4.title": "Auction scanned",
+  "shack4.icon": "❇️",
+  "shack4.description": "This auction is safe. I've verified the seller."
 }

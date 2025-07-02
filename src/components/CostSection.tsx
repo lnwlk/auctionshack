@@ -6,8 +6,8 @@ export default function CostSection() {
   const { t } = useTranslation(["home"]);
 
   return (
-    <div className="mx-auto px-4 py-16 md:max-w-6xl">
-      <div className="glass-effect-light flex w-full flex-col space-y-2 rounded-4xl border px-4 py-8">
+    <div className="flex w-full flex-col items-center px-4 py-8 md:max-w-7xl md:py-16">
+      <div className="glass-effect-light flex w-full max-w-4xl flex-col space-y-2 rounded-4xl border px-4 py-8">
         <h4 className="text-4xl">{t("costHeadline")}</h4>
         <p className="text-TextSecondary text-base">{t("costParagraph")}</p>
         <CostCard

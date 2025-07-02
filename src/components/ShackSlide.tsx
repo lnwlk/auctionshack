@@ -4,6 +4,7 @@ type ShackSlideProps = {
   image: string;
   nameKey: string;
   titleKey: string;
+  iconKey: string;
   descriptionKey: string;
 };
 
@@ -11,6 +12,7 @@ export default function ShackSlide({
   image,
   nameKey,
   titleKey,
+  iconKey,
   descriptionKey,
 }: ShackSlideProps) {
   const { t } = useTranslation(["home"]);
@@ -22,13 +24,16 @@ export default function ShackSlide({
         <p>{t(nameKey)}</p>
       </div>
       <div
-        className="glass-effect parallax-content mx-8 flex w-full items-center gap-4 rounded-2xl p-4"
+        className="glass-effect parallax-content mx-8 flex w-full items-start gap-4 rounded-2xl p-4"
         data-swiper-parallax-y="-40"
       >
-        <div className="glass-effect h-16 w-16 flex-none rounded-2xl p-2">
-          <img src="/brand/app-icon.png" alt="AuctionShack Logo" />
+        <div
+          className="glass-effect flex h-12 w-12 flex-none items-center justify-center rounded-2xl p-2 text-center"
+          data-swiper-parallax-y="-45"
+        >
+          <p className="text-2xl leading-snug">{t(iconKey)}</p>
         </div>
-        <div>
+        <div data-swiper-parallax-y="-45">
           <p className="text-base leading-snug font-bold">{t(titleKey)}</p>
           <p className="text-base leading-snug">{t(descriptionKey)}</p>
         </div>

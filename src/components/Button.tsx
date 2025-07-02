@@ -1,15 +1,22 @@
 import "@/i18n";
 import { useTranslation } from "react-i18next";
+import Link from "next/link";
 
-export default function Button() {
-  const { t } = useTranslation(["common"]);
+type ButtonProps = {
+  namespace?: string;
+  buttonLabel?: string;
+  href: string;
+};
+
+export default function Button({ namespace, buttonLabel, href }: ButtonProps) {
+  const { t } = useTranslation(namespace ?? "common");
 
   return (
-    <button
-      className="border-color glass-effect flex justify-center rounded-full p-4 text-center hover:bg-black"
-      type="button"
+    <Link
+      href={href}
+      className="border-color glass-effect flex justify-center rounded-full p-4 text-center transition hover:cursor-pointer hover:opacity-80"
     >
-      {t("ctaButton")}
-    </button>
+      {buttonLabel ?? t("ctaButton")}
+    </Link>
   );
 }
