@@ -62,9 +62,9 @@ const VideoRevealPlayer: React.FC<VideoRevealPlayerProps> = ({ videoId }) => {
             className="h-full w-full rounded-2xl object-cover"
             style={{
               WebkitMaskImage:
-                "linear-gradient(to bottom, rgba(0,0,0,1) 25%, rgba(0,0,0,0) 40%)",
+                "linear-gradient(to bottom, rgba(0,0,0,1) 25%, rgba(0,0,0,0) 48%)",
               maskImage:
-                "linear-gradient(to bottom, rgba(0,0,0,1) 25%, rgba(0,0,0,0) 40%)",
+                "linear-gradient(to bottom, rgba(0,0,0,1) 25%, rgba(0,0,0,0) 48%)",
             }}
           />
         </div>
