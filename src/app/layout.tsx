@@ -6,8 +6,8 @@ import NavBar from "../components/NavBar";
 import MeshBackground from "../components/MeshBackground";
 
 export const metadata: Metadata = {
-  title: "My i18n App",
-  description: "A Next.js app with i18next",
+  title: "AuctionShack",
+  description: "Gain space. Discover treasures.",
 };
 
 export default function RootLayout({
