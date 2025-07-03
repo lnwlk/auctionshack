@@ -69,7 +69,7 @@ export default function TokenChart() {
           top: "50%",
           left: "50%",
           transform: "translate(-50%, -50%)",
-          fontSize: "1.5rem",
+          fontSize: "2.5rem",
           pointerEvents: "none",
           userSelect: "none",
           color: "#fff",

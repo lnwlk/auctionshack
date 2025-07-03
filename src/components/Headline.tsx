@@ -25,7 +25,7 @@ export default function Headline({
         <h3 className="text-4xl tracking-tight">{t(headingSecondKey ?? "")}</h3>
       </div>
       <p
-        className="pt-4 text-lg"
+        className="pt-4 text-lg opacity-80 md:text-2xl"
         dangerouslySetInnerHTML={{ __html: t(paragraphKey ?? "") }}
       />
     </div>
