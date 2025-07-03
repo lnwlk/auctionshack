@@ -9,7 +9,7 @@ export default function CreateAuctionSection() {
     <div className="relative my-4 w-screen max-w-7xl md:mt-16 md:py-16">
       <TransparentVideo
         srcWebm="/video/AppFrame_01-vp9-chrome.webm"
-        srcMp4="/video/AppFrame_01-hevc-safari.mp4"
+        srcHevcMp4="/video/AppFrame_01-hevc-safari.mp4"
         className="rounded-lg"
       />
 

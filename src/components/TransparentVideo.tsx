@@ -2,16 +2,20 @@ import React, { useEffect, useRef } from "react";
 
 type TransparentVideoProps = {
   srcWebm: string;
-  srcMp4?: string;
+  srcHevcMp4: string;
   className?: string;
 };
 
 export default function TransparentVideo({
   srcWebm,
-  srcMp4,
+  srcHevcMp4,
   className,
 }: TransparentVideoProps) {
   const videoRef = useRef<HTMLVideoElement>(null);
+
+  const isSafari =
+    typeof navigator !== "undefined" &&
+    /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
 
   useEffect(() => {
     const video = videoRef.current;
@@ -21,13 +25,13 @@ export default function TransparentVideo({
       ([entry]) => {
         if (entry.isIntersecting) {
           video.play().catch(() => {
-            // Handle play error (autoplay restrictions)
+            // Handle autoplay restrictions gracefully
           });
         } else {
           video.pause();
         }
       },
-      { threshold: 0.5 }, // play when 50% visible
+      { threshold: 0.5 },
     );
 
     observer.observe(video);
@@ -44,10 +48,14 @@ export default function TransparentVideo({
       muted
       playsInline
       preload="metadata"
+      style={{ backgroundColor: "transparent" }}
       className="absolute inset-0 -z-10 h-full w-full scale-110 -rotate-20 object-contain md:scale-100"
     >
-      <source src={srcWebm} type="video/webm" />
-      {srcMp4 && <source src={srcMp4} type="video/mp4" />}
+      {isSafari ? (
+        <source src={srcHevcMp4} type='video/mp4; codecs="hvc1"' />
+      ) : (
+        <source src={srcWebm} type="video/webm" />
+      )}
       Your browser does not support the video tag.
     </video>
   );
