@@ -11,9 +11,19 @@ export default function LanguageSwitcher() {
   };
 
   return (
-    <div className="flex gap-4">
-      <button onClick={() => changeLanguage("en")}>EN</button>
-      <button onClick={() => changeLanguage("de")}>DE</button>
+    <div className="absolute top-8 left-8 z-50 flex gap-4">
+      <button
+        onClick={() => changeLanguage("en")}
+        className="rounded-2xl bg-white/20 p-4 hover:bg-white/40"
+      >
+        EN
+      </button>
+      <button
+        onClick={() => changeLanguage("de")}
+        className="rounded-2xl bg-white/20 p-4 hover:bg-white/40"
+      >
+        DE
+      </button>
     </div>
   );
 }

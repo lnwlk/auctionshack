@@ -11,9 +11,6 @@ import LanguageSwitcher from "./LanguageSwitcher";
 export default function Example() {
   return (
     <nav className="z-50 mx-auto flex w-full max-w-7xl justify-end p-4">
-      <div className="absolute top-20 left-8">
-        <LanguageSwitcher />
-      </div>
       <div className="flex w-sm flex-wrap justify-end gap-1 md:w-full">
         <Link
           href="/"
