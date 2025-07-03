@@ -24,7 +24,7 @@ export default function TokenChart() {
     return () => window.removeEventListener("resize", handleResize);
   }, []);
 
-  const chartSize = isMobile ? 450 : 600;
+  const chartSize = isMobile ? 400 : 600;
 
   return (
     <div
@@ -32,7 +32,7 @@ export default function TokenChart() {
         position: "relative",
         width: chartSize,
         height: chartSize,
-        margin: "0 auto",
+        margin: "auto auto",
       }}
     >
       <PieChart width={chartSize} height={chartSize}>
@@ -41,8 +41,8 @@ export default function TokenChart() {
           dataKey="value"
           cx="50%"
           cy="50%"
-          innerRadius={isMobile ? 140 : 190}
-          outerRadius={isMobile ? 200 : 260}
+          innerRadius={isMobile ? 120 : 190}
+          outerRadius={isMobile ? 160 : 260}
           startAngle={90}
           endAngle={450}
           paddingAngle={0}

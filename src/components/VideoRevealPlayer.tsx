@@ -32,7 +32,7 @@ const VideoRevealPlayer: React.FC<VideoRevealPlayerProps> = ({ videoId }) => {
     <>
       {/* Preview Box */}
       <div
-        className="glass-effect relative aspect-square w-full cursor-pointer overflow-hidden rounded-2xl p-8 transition-all"
+        className="glass-effect relative aspect-3/4 w-full cursor-pointer overflow-hidden rounded-2xl p-8 transition-all md:aspect-square"
         onMouseEnter={() => setHovered(true)}
         onMouseLeave={() => setHovered(false)}
         onClick={() => setShowModal(true)}

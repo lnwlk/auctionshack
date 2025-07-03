@@ -22,8 +22,8 @@ export default function Home() {
             paragraphKey="purpose"
           />
         </div>
-        <div className="relative w-full max-w-4xl rounded-2xl bg-gradient-to-b p-2">
-          <div className="glass-effect aspect-square w-full rounded-4xl md:aspect-auto">
+        <div className="relative w-full max-w-4xl rounded-2xl bg-gradient-to-b p-4">
+          <div className="glass-effect flex aspect-square w-full justify-center rounded-4xl md:aspect-auto">
             <TokenChart />
           </div>
         </div>
