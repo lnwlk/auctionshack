@@ -1,6 +1,4 @@
 "use client";
-import "@/i18n";
-import { useTranslation } from "react-i18next";
 
 import Headline from "@/components/Headline";
 import TokenChart from "@/components/TokenChart";
@@ -10,8 +8,6 @@ const videosLeft = ["0yOhwprQaiw", "b7_Y2M7nNNM", "i_e9rjEIOYw"];
 const videosRight = ["syH9HjdMw24", "0uHuC59rOD8"];
 
 export default function Home() {
-  const { t } = useTranslation(["token"]);
-
   return (
     <>
       <div className="mx-auto flex w-full flex-col items-center gap-8">
